@@ -21,6 +21,7 @@ public class PersonController {
         persons.add(new Person("bjarte",20));
         persons.add(new Person("bjarte",22));
         persons.add(new Person("bjarte",24));
+
         return persons;
     }
 }
